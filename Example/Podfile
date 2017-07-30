@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CPYPrivatePodsDemo_Example' do
+  pod 'CPYPrivatePodsDemo', :path => '../'
+
+  target 'CPYPrivatePodsDemo_Tests' do
+    inherit! :search_paths
+
+   
+  end
+end

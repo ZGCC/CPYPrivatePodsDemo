@@ -1,0 +1,6 @@
+framework module CPYPrivatePodsDemo {
+  umbrella header "CPYPrivatePodsDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

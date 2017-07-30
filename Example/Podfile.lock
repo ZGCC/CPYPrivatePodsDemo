@@ -1,0 +1,16 @@
+PODS:
+  - CPYPrivatePodsDemo (0.1.0)
+
+DEPENDENCIES:
+  - CPYPrivatePodsDemo (from `../`)
+
+EXTERNAL SOURCES:
+  CPYPrivatePodsDemo:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CPYPrivatePodsDemo: 124429fe8ebbf376beb62cf3acfa51c7d3414b3a
+
+PODFILE CHECKSUM: cb1a9d668c4440c82f24c4feabb92ee15439bff5
+
+COCOAPODS: 1.2.0
